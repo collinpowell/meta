@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://metanetwork.io
+
+# Sitemaps
+Sitemap: https://metanetwork.io/sitemap.xml
